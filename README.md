@@ -28,12 +28,12 @@ The dataset is sourced from https://books.toscrape.com/
 
 ### Data Variables
 
-Title: Name of book or novel
-Category: Category of book or novel
-Rating: Rating of the book
-Price: Price of the book
-Availablility: Availablility of the book
-Quantity: Quantity of the book
+ - Title: Name of book or novel
+ - Category: Category of book or novel
+ - Rating: Rating of the book
+ - Price: Price of the book
+ - Availablility: Availablility of the book
+ - Quantity: Quantity of the book
 
 
 ## Example Usage
