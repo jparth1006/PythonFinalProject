@@ -1,0 +1,6 @@
+flask
+pandas
+pathlib
+sqlite3
+watchdog
+gunicorn
